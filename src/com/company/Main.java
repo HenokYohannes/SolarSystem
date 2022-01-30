@@ -14,6 +14,11 @@ public class Main {
         Solana.radius = "5655956859";
         Solana.temp = "12376737c";
 
+// working on planet2 feature
+
+        planet2 perry=new planet2();
+   perry.color="yellow";
+   perry.size="89859585958km";
 
     }
 }

@@ -14,6 +14,11 @@ public class Main {
         Solana.radius = "5655956859";
         Solana.temp = "12376737c";
 
+        // adding planet1 features
 
+        PLANET1 narahal =new PLANET1();
+
+narahal.color="green";
+narahal.size="123435653343";
     }
 }

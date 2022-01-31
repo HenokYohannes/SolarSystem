@@ -30,19 +30,11 @@ narahal.color="green";
 narahal.size="123435653343";
 
 
-
    //adding moo 1 features
    moon1 motero=new moon1();
    motero.color="blue";
    motero.radius="242656";
     motero.lightintensity="1212213232lumouns";
-
-
-
-
-
-
-
 
 
 // moon2 features

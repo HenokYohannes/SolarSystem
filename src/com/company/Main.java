@@ -28,5 +28,20 @@ public class Main {
 
 narahal.color="green";
 narahal.size="123435653343";
+
+
+
+
+
+
+
+
+// moon2 features
+
+        moon2 montero= new moon2();
+        montero.color="red";
+        montero.radius="4324234234";
+        montero.lightintensity="93481afkdfhghgg";
+
     }
 }

@@ -12,7 +12,7 @@ public class Main {
         SUN Solana = new SUN();
         Solana.Heat = "6776767367kj";
         Solana.radius = "5655956859";
-        Solana.temp = "12376737c";
+        Solana.temp = 1231231231;
 
 
 // working on planet2 feature
@@ -29,12 +29,28 @@ public class Main {
 narahal.color="green";
 narahal.size="123435653343";
 
+
+
    //adding moo 1 features
    moon1 motero=new moon1();
    motero.color="blue";
    motero.radius="242656";
     motero.lightintensity="1212213232lumouns";
 
+
+
+
+
+
+
+
+
+// moon2 features
+
+        moon2 montero= new moon2();
+        montero.color="red";
+        montero.radius="4324234234";
+        montero.lightintensity="93481afkdfhghgg";
 
 
 
